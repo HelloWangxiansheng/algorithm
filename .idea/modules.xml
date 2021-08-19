@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/baseTestDemo.iml" filepath="$PROJECT_DIR$/baseTestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangAlgorithm.iml" filepath="$PROJECT_DIR$/wangAlgorithm.iml" />
     </modules>
   </component>
 </project>
