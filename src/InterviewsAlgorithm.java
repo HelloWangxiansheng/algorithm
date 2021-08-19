@@ -6,6 +6,11 @@ import java.util.Scanner;
  */
 public class InterviewsAlgorithm {
 
+    /**
+     * 面试笔试遇到的算法
+     * @param args
+     */
+
     public static void main(String[] args) {
 
         //输入一个整数，转换成16进制，并判断是否为回文数，不是返回0，是返回1
