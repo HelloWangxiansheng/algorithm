@@ -20,9 +20,9 @@ class RecursiveAlgorithm {
 
 
         //字符串元素排列组合
-        //        String string ="zxcvb";
-        //        List<String> result = getPermutation(new StringBuffer(string));
-        //        System.out.println(result.size());
+//        String string ="zxcvb";
+//        List<String> result = getPermutation(new StringBuffer(string));
+//        System.out.println(result.size());
 
 
 
