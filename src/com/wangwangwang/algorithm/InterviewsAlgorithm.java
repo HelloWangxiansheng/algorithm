@@ -1,3 +1,5 @@
+package com.wangwangwang.algorithm;
+
 import java.util.Scanner;
 
 /**
